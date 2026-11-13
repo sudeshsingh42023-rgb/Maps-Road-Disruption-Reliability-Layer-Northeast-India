@@ -1,0 +1,44 @@
+{
+  "auc_model": 0.744,
+  "auc_baseline_rule": 0.615,
+  "brier": 0.202,
+  "threshold_table": [
+    {
+      "threshold": 0.3,
+      "precision": 0.552,
+      "recall": 0.864,
+      "false_alert_rate": 0.448
+    },
+    {
+      "threshold": 0.4,
+      "precision": 0.599,
+      "recall": 0.751,
+      "false_alert_rate": 0.401
+    },
+    {
+      "threshold": 0.5,
+      "precision": 0.637,
+      "recall": 0.598,
+      "false_alert_rate": 0.363
+    },
+    {
+      "threshold": 0.6,
+      "precision": 0.693,
+      "recall": 0.464,
+      "false_alert_rate": 0.307
+    },
+    {
+      "threshold": 0.7,
+      "precision": 0.76,
+      "recall": 0.298,
+      "false_alert_rate": 0.24
+    },
+    {
+      "threshold": 0.8,
+      "precision": 0.878,
+      "recall": 0.136,
+      "false_alert_rate": 0.122
+    }
+  ],
+  "data": "SYNTHETIC"
+}
