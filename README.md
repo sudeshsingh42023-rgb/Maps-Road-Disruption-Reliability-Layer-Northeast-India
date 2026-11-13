@@ -15,5 +15,4 @@ See `PRD.md` for the product thinking. Edit the discovery section with your real
 - Authored a PRD for a crowdsourced road-closure reliability layer in Google Maps for Northeast India, grounded in [N] user interviews, with a North Star metric, guardrails and a phased pilot plan.
 - Built a report-credibility model (AUC [X] vs [Y] for a naive rule, on synthetic data) and a Streamlit prototype with Gemini API extraction of closure events from multilingual text.
 
-## Before using on a resume
-Do real interviews/survey and fill the PRD's evidence section. Label the dataset as synthetic. Note: `model.joblib` is not included; run `python train_model.py` to create it.
+
